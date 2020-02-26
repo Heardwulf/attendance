@@ -44,8 +44,8 @@ This app should:
 
 ### Suggested approaches
 
-- Location (GPS) or network (Wi-Fi access point specific) possible
-- How would students not on eduroam be counted? 
+* Location (GPS) or network (Wi-Fi access point specific) possible
+  * How would students not on eduroam be counted? 
 
 * ID scanning system
   * Requires readers at each door of the auditorium
