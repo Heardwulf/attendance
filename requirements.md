@@ -31,7 +31,7 @@ This app should:
 
 - Put up a slide during a lecture with directions
 - Students follow directions on their smartphone or laptop
-*  *This implies a temporal component as a suggestion*
+  -*This implies a temporal component as a suggestion*
 - If a student is unable to use the app, they should be able to sign a sheet of paper from the instructor
 
 ### Current solutions
